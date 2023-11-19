@@ -1,2 +1,1 @@
-<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="300">
-![img.png](img.png)
+[![Build status](https://github.com/Ruslan-Shev/Patterns.git /home/appveyor/projects/patterns-r4icm)](https://ci.appveyor.com/project/Ruslan-Shev/patterns/branch/main)
