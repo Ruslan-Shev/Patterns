@@ -1,1 +1,1 @@
-![AppVeyor Build](https://img.shields.io/appveyor/build/:user/https%3A%2F%2Fgithub.com%2FRuslan-Shev%2FPatterns%2Ftree%2Fmain)
+![AppVeyor Build (with branch)](https://img.shields.io/appveyor/build/Ruslan-Shev/!%5BAppVeyor%20Build%5D(https%3A%2F%2Fimg.shields.io%2Fappveyor%2Fbuild%2F%3Auser%2Fhttps%253A%252F%252Fgithub.com%252FRuslan-Shev%252FPatterns%252Ftree%252Fmain)/main)
