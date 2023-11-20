@@ -1,1 +1,1 @@
-https://github.com/Ruslan-Shev/Patterns.git /home/appveyor/projects/patterns-r4icm
+[![Build status](https://ci.appveyor.com/api/projects/status/a7dk1wq2796uqhph/branch/main?svg=true
